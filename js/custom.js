@@ -40,10 +40,10 @@ setTimeout(() => {
     if (i < arr.length) loadingText.innerHTML = arr[i];
     else i = 0;
     i++;
-  }, 70);
+  }, 150);
 }, 50);
 setTimeout(() => {
-  clearInterval(time), 1000;
+  clearInterval(time), 2000;
 });
 
 (function($) {
