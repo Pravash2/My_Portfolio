@@ -41,7 +41,7 @@ body {
 
 #preloader #status h1 {
   font-weight: 900;
-  font-size: 20rem;
+  font-size: 18rem;
 }
 
 #loader_gif {
@@ -1882,7 +1882,7 @@ button:focus {
     background: #f6483b !important;
   }
   #preloader #status h1 {
-    font-size: 8rem;
+    font-size: 7rem;
   }
 
   .prt_home_wrapper {
@@ -1948,7 +1948,7 @@ button:focus {
 
 @media (max-width: 390px) {
   #preloader #status h1 {
-    font-size: 5rem;
+    font-size: 4rem;
   }
 
   .prt_services_slider_box {

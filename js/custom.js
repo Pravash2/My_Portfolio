@@ -14,12 +14,12 @@ let arr = [
   "AWS",
   "Javascript",
   "Docker",
-  "PostgressQl",
-  "RestfulApi",
-  "Tensorflow.js",
+  "Postgress",
+  "Restful",
+  "Tensorflow",
   "NPM",
   "Yarn",
-  "Dialogflow.js",
+  "Dialogflow",
   "Socket.io",
   "Python",
   "Electron",
@@ -40,7 +40,7 @@ setTimeout(() => {
     if (i < arr.length) loadingText.innerHTML = arr[i];
     else i = 0;
     i++;
-  }, 150);
+  }, 100);
 }, 50);
 setTimeout(() => {
   clearInterval(time), 2000;
