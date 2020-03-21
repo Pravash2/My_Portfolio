@@ -11,7 +11,24 @@ let arr = [
   "Native",
   "PWA",
   "Expo",
-  "AWS"
+  "AWS",
+  "Javascript",
+  "Docker",
+  "PostgressQl",
+  "RestfulApi",
+  "Tensorflow.js",
+  "NPM",
+  "Yarn",
+  "Dialogflow.js",
+  "Socket.io",
+  "Python",
+  "Electron",
+  "Git",
+  "GatsBy",
+  "NativeBase",
+  "Github",
+  "MaterialUI",
+  "Heroku"
 ];
 let loadingText = document.getElementById("loader_text");
 let loadx = document.getElementById("load-x");
