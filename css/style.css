@@ -1720,6 +1720,10 @@ button:focus {
   font-size: 10rem;
 }
 
+.testimonial {
+  margin-top: 100px;
+}
+
 /*---------- Main Wrapper css End -------*/
 /*---------- Responsive css Start -------*/
 @media (min-width: 992px) and (max-width: 1199px) {
